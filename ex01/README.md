@@ -1,3 +1,4 @@
+```
 Nombre del ejercicio  : textaco
 Files a entregar   : textaco.c
 Funciones Permitidas: write
@@ -27,3 +28,4 @@ $>./textaco 'hola' 'adios' | cat -e
 Error: demasiados argumentos$
 $>./textaco 'hola ' | cat -e
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooollllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                                $
+```

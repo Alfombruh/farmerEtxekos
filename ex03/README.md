@@ -1,3 +1,4 @@
+```
 Nombre del ejercicio  : elMasCercano
 Files a entregar   : elMasCercano.c main.c
 Funciones Permitidas:
@@ -52,3 +53,5 @@ int number = -3;
 printf("%d\n", elMasCercano(array, size, number));
 
 salida=> -5
+
+```

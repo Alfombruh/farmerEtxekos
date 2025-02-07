@@ -1,3 +1,4 @@
+```
 Nombre del ejercicio    :   printBinary
 Files a entregar        :   printBinary.c main.c
 Funciones Permitidas    :   write
@@ -21,3 +22,5 @@ Ejemplos:
 '|' -> 01111100
 '4' -> 00110100
 4   -> 00000100
+
+```

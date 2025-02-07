@@ -1,3 +1,4 @@
+```
 Nombre del ejercicio    :   amongus
 Files a entregar        :   amongus.c main.c
 Funciones Permitidas    :   write
@@ -27,6 +28,4 @@ $> ./amogus | cat -e
 $
 $> ./amongus "oraculo" "orrlllrlllaraalllalllcuullluullllollloooo" | cat -e
 1$
-
-
-
+```

@@ -1,3 +1,4 @@
+```
 Nombre del ejercicio  : farmer
 Files a entregar   : farmer.c
 Funciones Permitidas: write
@@ -34,3 +35,4 @@ mer
 far
 99
 100
+```
